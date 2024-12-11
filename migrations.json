@@ -1,0 +1,11 @@
+{
+  "prerun": "# some code here",
+  "directory": "migrations",
+  "history": "migratehistory",
+  "models": [
+    "DataBase.Models.materialsModel.MaterialsModel",
+    "DataBase.Models.typesModel.TypesModel",
+    "DataBase.Models.detModel.detModel",
+    "DataBase.Models.seModel.seModel"
+  ]
+}
